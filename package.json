@@ -1,0 +1,19 @@
+{
+  "name": "datastore-siasky",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vaultec81",
+  "license": "MIT",
+  "dependencies": {
+    "@nebulous/skynet": "0.0.8",
+    "axios": "^0.19.2",
+    "datastore-fs": "^0.9.1",
+    "interface-datastore": "^0.8.1",
+    "ipfs": "^0.41.2",
+    "ipfs-repo": "^1.0.0"
+  }
+}
