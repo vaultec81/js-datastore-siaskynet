@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "@nebulous/skynet": "0.0.8",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "datastore-fs": "^0.9.1",
     "interface-datastore": "^0.8.1",
     "ipfs": "^0.41.2",
